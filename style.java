@@ -1,4 +1,4 @@
-import java.util.Scanner;
+// Java program to demonstrate the use of a class
 
 class Style {
 
